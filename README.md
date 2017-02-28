@@ -1,8 +1,8 @@
 # pictouresque-application
-An mobile application that uses image recognition and gps location to provide users with an informative audio tour experience. As a group of avid travelers, we wanted an easier way to receive information at our fingertips about our surroundings! Hence, the birth of Pictouresque.
+An mobile application that uses image recognition and gps location to provide users with an informative audio tour experience. Inspiration for this project was to develop an easier and more engaging way for users to receive information at their fingertips about their surroundings. At a time when travelers' use of social media and mobile devices is at an all time high, PicTouresque provides an effortless way to get the most out of a quick sightseeing experience.
 
 ## What it does:
-The app allows users to take pictures of their surroundings and get an informative audio tour (featuring bites of information about what's in the picture).
+The app allows users to take pictures of their surroundings and get an informative audio tour (featuring bites of information about what's in the picture). Users can open up a scanner in the app and hold it up to an attraction, as if taking a picture of it. Scanner then compares image captured to a stored library of attractions- such as buildings, statues, and parks. Once identified, user is provided with a set of interesting facts about said attraction. 
 
 ## How we built it: 
 The app was built using Java and Android-Studio. Instead of making our own camera within the app itself, we used an existing API to scan instead of take a picture, and then compare that scan to a library of buildings.
@@ -13,3 +13,8 @@ We hope to grow the user-base so that users can generate information for attract
 ## Built with:
 * Java
 * Android Studio
+* Grad;e
+
+
+· Mobile application that uses image recognition and gps location to provide users with an informative audio tour experience. 
+· 
