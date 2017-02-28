@@ -14,7 +14,3 @@ We hope to grow the user-base so that users can generate information for attract
 * Java
 * Android Studio
 * Grad;e
-
-
-· Mobile application that uses image recognition and gps location to provide users with an informative audio tour experience. 
-· 
